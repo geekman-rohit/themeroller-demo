@@ -1,0 +1,127 @@
+
+	h1,h2,h3 {
+		margin:0;
+		padding:0;
+	}
+		.navbar{
+			background:#f4f4f4;
+			border-bottom:1px solid #ddd;
+			color:#333;
+			height:60px;
+			line-height: 60px;
+			overflow:hidden;
+			padding:0px 30px;
+			box-shadow:0 0 4px rgba(0,0,0,.2),0 4px 8px rgba(0,0,0,.2);
+			z-index:1;
+
+		}
+
+		div.brand {
+
+
+		}
+		.brand h1 {
+			font-size:1.3em;
+			font-weight:normal;
+		}
+
+		body {
+			margin:0;
+			padding:0;
+			overflow-x:hidden;
+			width:100%;
+			font-family: helvetica;
+		}
+		.icon {
+
+		margin: 10px;
+		width: 16px;
+		height: 16px;
+		fill: #333;
+		}
+
+		.button.circle {
+			background:red;
+			width:40px;
+			height:40px;
+			display: inline-block;
+			position:relative;
+			border-radius:80px;
+		}
+		.button.normal {
+			width:40px;
+			height:40px;
+
+			display: inline-block;
+			position:relative;
+
+		}
+
+		.navbar .button {
+			margin-top:10px;
+		}
+		input[type="text"]{
+			height:20px;
+			padding:5px;
+			border:1px solid #aaa;
+
+
+
+		}
+		.navbar input {
+			display:inline-block;
+			position:relative;
+			bottom:12px;
+			border-color:#ddd;
+			color:#aaa;
+			border-radius:2px;
+		}
+
+		.sidebar {
+
+			border-right:1px solid #ddd;
+			height:700px;
+			box-shadow:1px 0 2px rgba(0,0,0,.1),2px 2px 4px rgba(0,0,0,.1);
+			z-index:5;
+			margin-top:0px;
+		}
+
+
+		.tabs.ui-tabs .ui-tabs-nav {
+			border-bottom:1px solid #ddd;
+			margin:0;
+			padding:0;
+		}
+		.tabs ul li {
+			border-right:1px solid #ddd;
+		}
+		.ui-tooltip{
+			background-color: #222;
+			color:white;
+		}
+		.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+			padding:.1em;
+		}
+		iframe#preview{
+			border:none;
+			width:100%;
+			overflow:visible
+			overflow:hidden;
+
+		}
+		.field label {
+			display:block;
+			margin-top:10px;
+
+		}
+
+		a#api {
+			display:block;
+			margin-top:10px;
+			padding:10px;
+			background-color:#666;
+			color:white;
+			float:left;
+			text-decoration: none;
+
+		}

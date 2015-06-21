@@ -1,0 +1,20 @@
+{
+  "name": "Themeroller app",
+  "version": "0.0.0",
+  "authors": [
+    "Rohit Mulange <rohit@rohit.codes>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "~1.11.4",
+    "qunit": "~1.18.0",
+    "flexboxgrid": "~6.2.0"
+  }
+}
