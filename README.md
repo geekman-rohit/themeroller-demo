@@ -21,3 +21,6 @@ Prerequisites :
 5. Provide necessary database details to setup script
 6. After setup, run `node index.js`
 7. Visit [http://localhost:3000/static/](http://localhost:3000/static/)
+
+
+Random change.
