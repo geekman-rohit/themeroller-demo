@@ -1,4 +1,4 @@
-# themeroller-demo
+# themeroller-demo :)
 
 Prerequisites :
 
